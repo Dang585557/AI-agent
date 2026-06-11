@@ -1,0 +1,11 @@
+.env
+*.pyc
+__pycache__/
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+android/.gradle/
+ios/Pods/
+*.log
